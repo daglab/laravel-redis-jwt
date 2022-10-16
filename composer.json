@@ -1,0 +1,23 @@
+{
+    "name": "daglab/laravel-redis-jwt",
+    "description": "This package allows JWT-authenticated users to be stored and management in Redis with their roles, permissions, statuses and anything you want.",
+    "type": "library",
+    "require": {
+        "predis/predis": "2.0.x-dev",
+        "php-open-source-saver/jwt-auth": "dev-main",
+        "spatie/laravel-permission": "5.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Daglab\\RedisJWT\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rustam Makhmudov",
+            "email": "media@daglab.ru"
+        }
+    ],
+    "minimum-stability": "dev"
+}
