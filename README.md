@@ -20,9 +20,9 @@ This package work with together [php-open-source-saver/jwt-auth:](https://github
 
 ![#](https://placehold.it/15/f03c15/000000?text=+) `Make sure to install and configure these dependencies. You must publish, migrate etc. all packages.` ![#](https://placehold.it/15/f03c15/000000?text=+)
  
-- [nrk/predis](https://github.com/nrk/predis) **>= 1.1** (**Recommended 1.1**)
-- [php-open-source-saver/jwt-auth:](https://github.com/php-open-source-saver/jwt-auth:) **>= 1.4** (**Recommended 1.4.x**)
-- [spatie/laravel-permission](https://github.com/spatie/laravel-permission) **>= 5.5** (**Recommended 5.5**) (Optional)
+- [nrk/predis](https://github.com/nrk/predis) **>= 1.1** 
+- [php-open-source-saver/jwt-auth:](https://github.com/php-open-source-saver/jwt-auth:) **>= 1.4** 
+- [spatie/laravel-permission](https://github.com/spatie/laravel-permission) **>= 5.5**  (Optional)
 
 ## Installation
 
