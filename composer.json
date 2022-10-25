@@ -3,6 +3,7 @@
     "description": "This package allows JWT-authenticated users to be stored and management in Redis with their roles, permissions, statuses and anything you want.",
     "type": "library",
     "require": {
+        "php": ">=8.0",
         "predis/predis": "2.0.x-dev",
         "php-open-source-saver/jwt-auth": "dev-main",
         "spatie/laravel-permission": "5.x-dev"
