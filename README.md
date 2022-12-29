@@ -55,7 +55,7 @@ return [
 ```
 This package uses auto-discovery to register the service provider but if you'd rather do it manually, the service provider is: add to `providers` array in your `config/app.php` config as follows:
 ```php
-daglab\RedisJWT\RedisJWTServiceProvider::class,
+Daglab\RedisJWT\RedisJWTServiceProvider::class,
 ```
 You will want to publish the config using the following command:
 ```bash
