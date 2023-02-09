@@ -296,7 +296,7 @@ return [
 
 ## Example Project
 
-Here is an [example](https://github.com/daglab/laravel-redis-jwt-example) using laravel-redis-jwt. You can examine in detail.
+Here is an [example](https://github.com/daglab/laravel-redis-jwt) using laravel-redis-jwt. You can examine in detail.
 
 ## Performance Improvements Tips
 This package requirement the predis package by default.
